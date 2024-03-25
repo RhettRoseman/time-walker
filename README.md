@@ -36,6 +36,8 @@ THEN  the timer will show 00:00:00
 ![Stopwatch](https://github.com/RhettRoseman/time-walker/assets/140462841/23726121-a5eb-4b55-aaab-6dccb23f679c)
 
 
-## Author
+## Links
 
-[Rhett Roseman](https://github.com/RhettRoseman)
+[Github](https://github.com/RhettRoseman)
+
+[Live URL](https://rhettroseman.github.io/time-walker/)
