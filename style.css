@@ -1,0 +1,32 @@
+body{
+    background-color: whitesmoke ;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.header{
+width: 95%;
+height: 100%;
+max-width: 600px;
+background-image: url(images/background.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center ;
+text-align: center;
+padding: 40px 0;
+color: black;
+margin:200px auto 0;
+
+
+}
+.watch h1{
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+footer{
+    margin: 20px;
+    text-align: center;
+    text-size-adjust: 2px;
+}
