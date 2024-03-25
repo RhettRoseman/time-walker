@@ -24,3 +24,12 @@ THEN I will press the restart button
 WHEN I press the restart button 
 
 THEN  the timer will show 00:00:00 
+
+## Technologies 
+
+- HTML
+- CSS
+- JavaScript
+
+
+## 
